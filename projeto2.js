@@ -1,4 +1,4 @@
-let playerName= "HaruHime"
+let playerName= "KaoriHime"
 console.log("Seja bem vindo " + playerName)
 let numeroPartidas = 100
 let derrota = 13
